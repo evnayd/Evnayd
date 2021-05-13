@@ -15,9 +15,6 @@ Hi there 👋 My name is Evgeniya.
 ✅Highly motivated to learn.
 
 __________________________________________
-You can see my projects here: 
-
-
 
 <p align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" title="Github">
