@@ -37,7 +37,7 @@ My skills:
 
 __________________________________________
 
-My recent personal projects: https://evnayd.github.io/Recipesapp/
+My recent personal projects: https://evnayd.github.io/Recipesapp/ and 
 https://evnayd.github.io/familyfilms/
 
 __________________________________________
