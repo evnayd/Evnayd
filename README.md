@@ -1,16 +1,36 @@
-### Hi there 👋
+Hi there 👋 My name is Evgeniya.
 
-<!--
-**evnayd/evnayd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✅I'm Beginner frontend-developer with a big motivation to grow up in the frontend field;
 
-Here are some ideas to get you started:
+✅My tech skills: HTML5, BEM, CSS3, CSS preprocessors (Sass & Less), Tailwindcss, JavaScript, Vue.js;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅I use git, Github, npm, gulp, DevTools, Sketch, Figma, Zepplin;
+
+✅I know and use main principles of the modern web-development: accessibility, mobile-first, responsive-adaptive web-design, semantic, valid mark-up;
+
+✅Would like to join an innovative and collaborative team;
+
+✅Positive, patient, persistent, team player;
+
+✅Highly motivated to learn.
+
+__________________________________________
+You can see my projects here: 
+
+
+
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" title="Github">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" alt="git">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="50" alt="npm">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" alt="html">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" alt="css">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" width="50" alt="less">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" alt="sass">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="js">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" alt="vue">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" alt="firebase">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="50" alt="gulp">
+</p>
+
+__________________________________________
