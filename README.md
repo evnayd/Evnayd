@@ -37,8 +37,8 @@ My skills:
 
 __________________________________________
 
-My recent personal projects: https://evnayd.github.io/Recipesapp/ and 
-https://evnayd.github.io/familyfilms/
+My recent personal projects: https://evnayd.github.io/familyfilms/ (HTML, CSS, JS) and  https://evnayd.github.io/Recipesapp/ (HTML, CSS, Vue.js)
+
 
 __________________________________________
 I speak Russian, Serbian, English.
