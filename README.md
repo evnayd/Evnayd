@@ -1,6 +1,6 @@
 Hi there 👋 My name is Evgeniya.
 
-✅I'm Beginner frontend-developer with a big motivation to grow up in the frontend field;
+✅I'm self-taught frontend-developer with a big motivation to grow up in the frontend field;
 
 ✅My tech skills: HTML5, BEM, CSS3, CSS preprocessors (Sass & Less), Tailwindcss, JavaScript, Vue.js;
 
