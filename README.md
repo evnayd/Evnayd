@@ -36,3 +36,5 @@ My skills:
 </p>
 
 __________________________________________
+
+I speak Russian, Serbian, English.
