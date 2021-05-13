@@ -37,7 +37,7 @@ My skills:
 
 __________________________________________
 
-My recent personal projects: https://evnayd.github.io/familyfilms/ (HTML, CSS, JS) and  https://evnayd.github.io/Recipesapp/ (HTML, CSS, Vue.js)
+My recent personal projects: https://evnayd.github.io/familyfilms/ (HTML, CSS, JS) and  https://evnayd.github.io/Recipesapp/ (HTML, CSS, Vue.js, fetch API)
 
 
 __________________________________________
