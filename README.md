@@ -2,9 +2,9 @@ Hi there 👋 My name is Evgeniya.
 
 ✅I'm self-taught frontend-developer with a big motivation to grow up in the frontend field;
 
-✅My tech skills: HTML5, BEM, CSS3, CSS preprocessors (Sass & Less), Tailwindcss, JavaScript, Vue.js;
+✅My tech skills: HTML5, BEM, CSS3, CSS preprocessors (Sass & Less), Tailwindcss, JavaScript, Vue.js, git, npm, gulp;
 
-✅I use git, Github, npm, gulp, DevTools, Atom, VSCode, Sketch, Figma, Zepplin;
+✅I use Github, DevTools, Atom, VSCode, Sketch, Figma, Zepplin;
 
 ✅I know and use main principles of the modern web-development: accessibility, mobile-first, responsive-adaptive web-design, semantic, valid mark-up;
 
