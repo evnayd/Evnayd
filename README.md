@@ -31,7 +31,6 @@ My skills:
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="50" alt="sass">
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" alt="js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" alt="vue">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" width="50" alt="firebase">
     <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" width="50" alt="gulp">
 </p>
 
