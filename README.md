@@ -4,7 +4,7 @@ Hi there 👋 My name is Evgeniya.
 
 ✅ My tech skills: HTML5, BEM, CSS3, CSS preprocessors (Sass & Less), Tailwindcss, JavaScript, Vue.js, git, npm, gulp;
 
-✅ Currently studying React.js;
+✅ Currently studying React.js and TypeScript;
 
 ✅ Would like to join an innovative and collaborative team;
 
